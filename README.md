@@ -1,7 +1,7 @@
 # 🦒 CouRCode - Générateur de QR Code Avancé
 
 **CouRCode** est un générateur de QR Code PHP moderne et personnalisable avec un design girafe unique ! Le nom est un jeu de mots entre "Cou" (le long cou de la girafe) et "QR Code".
-
+https://github.com/sbois/CouRCode/blob/main/capture.png
 ## ✨ Fonctionnalités
 
 - 🔗 **4 types de QR Code** : URL, SMS, VCard (contact), Géolocalisation
